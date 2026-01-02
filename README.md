@@ -2,11 +2,13 @@
 
 A beautiful, offline-first Flutter application to help you organize your trips, manage itineraries, and discover new places with the power of AI.
 
-![App Screenshot](screenshots/splash.jpg)
-![App Screenshot](screenshots/home.png)
-![App Screenshot](screenshots/overview.png)
-![App Screenshot](screenshots/itnerary.png)
-
+<p align="center">
+  <img src="screenshots/Splash.jpg" width="180" />
+  <img src="screenshots/home.png" width="180" />
+  <img src="screenshots/overview.png" width="180" />
+  <img src="screenshots/itnerary.png" width="180" />
+  <img src="screenshots/notes.png" width="180" />
+</p>
 
 ## ✨ Features
 
@@ -68,13 +70,7 @@ A beautiful, offline-first Flutter application to help you organize your trips, 
     flutter run
     ```
 
-## 📸 Screenshots
 
-| Home Screen | Trip Details | AI Suggestions |
-|:-----------:|:------------:|:--------------:|
-| ![Home](screenshots/home.png) | ![Details](screenshots/details.png) | ![Suggestions](screenshots/suggestions.png) |
-
-*(Replace these paths with your actual screenshot files)*
 
 ## 🤝 Contributing
 
